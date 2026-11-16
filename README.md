@@ -27,7 +27,7 @@ I study **human–human and human–AI interaction** in social contexts, and how
 
 Across nearly two decades of research, including eight years in industry, I've served as a tech lead and manager and mentored eleven PhD research interns.
 
-| &nbsp;&nbsp;&nbsp;Affiliation&nbsp;&nbsp;&nbsp; | Role | Focus |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Affiliation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Role | Focus |
 |---|---|---|
 | <img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=64" width="18" height="18" alt="CMU" align="top" />&nbsp;**CMU&nbsp;HCII** | Research Faculty, Principal Research Scientist (2026–present) | Human-centered AI for mental health and support-service training |
 | <img src="https://www.google.com/s2/favicons?domain=stanford.edu&sz=64" width="18" height="18" alt="Stanford" align="top" />&nbsp;**Stanford** | Research Scholar (2024–2026) | AI and social media well-being, misinformation, relationship alignment in LLMs |
