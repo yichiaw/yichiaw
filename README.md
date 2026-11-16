@@ -1,6 +1,6 @@
 # Hi, I'm Yi-Chia Wang
 
-**Research Faculty** · Principal Research Scientist at [Carnegie Mellon University](https://hcii.cmu.edu/), School of Computer Science, Human-Computer Interaction Institute (HCII)
+**Research Faculty** · Principal Research Scientist at Carnegie Mellon University, School of Computer Science, [Human-Computer Interaction Institute (HCII)](https://hcii.cmu.edu/)
 
 I study **human–human and human–AI interaction** in social contexts, and how those interactions shape engagement, well-being, integrity, and fairness. My work sits at the intersection of **Computational Social Science**, **Natural Language Processing**, and **AI**, combining conversation modeling with large-scale data analysis, field experiments, and real-world deployment.
 
