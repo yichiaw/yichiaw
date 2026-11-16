@@ -1,6 +1,4 @@
-<img src="profile.jpg" alt="Yi-Chia Wang" width="180" align="right" style="border-radius:50%" />
-
-# Hi, I'm Yi-Chia Wang 👋
+# Hi, I'm Yi-Chia Wang
 
 **Research Faculty** · Principal Research Scientist at [Carnegie Mellon University](https://hcii.cmu.edu/), School of Computer Science, Human-Computer Interaction Institute (HCII)
 
@@ -10,7 +8,9 @@ I study **human–human and human–AI interaction** in social contexts, and how
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-3.4k%2B_citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=9gMgFPQAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yi--Chia_Wang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-chia-wang-6a6a327)
 
-<br clear="right"/>
+### Research interests
+
+`Human-centered AI` · `Trustworthy AI` · `LLM alignment & evaluation` · `Moral & social reasoning` · `Conversational AI` · `Affective computing` · `Social computing` · `User well-being` · `Computational social science`
 
 ---
 
@@ -20,21 +20,23 @@ I study **human–human and human–AI interaction** in social contexts, and how
 - **Scalable mental-health support training** — LLM-based agents for experiential micro-skills training (empathy, active listening, feedback) on large online support platforms (e.g., 7 Cups).
 - **Trustworthy and socially aware LLMs** — evaluation frameworks, moral and social reasoning benchmarks, and safety guardrails for large language models.
 
-### Research interests
+---
 
-`Human-centered AI` · `Trustworthy AI` · `LLM alignment & evaluation` · `Moral & social reasoning` · `Conversational AI` · `Affective computing` · `Social computing` · `User well-being` · `Computational social science`
 
 ### Experience
 
-| | Role | Focus |
-|---|---|---|
-| <img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=64" width="18" height="18" alt="CMU" align="top" /> **CMU HCII** | Research Faculty, Principal Research Scientist (2026–present) | Human-centered AI for mental health and support-service training |
-| <img src="https://www.google.com/s2/favicons?domain=stanford.edu&sz=64" width="18" height="18" alt="Stanford" align="top" /> **Stanford** | Research Scholar (2024–2026) | AI and social media well-being, misinformation, relationship alignment in LLMs |
-| <img src="https://www.google.com/s2/favicons?domain=meta.com&sz=64" width="18" height="18" alt="Meta" align="top" /> **Meta AI** | Research Scientist (2020–2024) | LLMs for smart glasses, LLM red-teaming (MART), affect modeling, conflict detection |
-| <img src="https://www.google.com/s2/favicons?domain=uber.com&sz=64" width="18" height="18" alt="Uber" align="top" /> **Uber AI** | Research Scientist (2016–2020) | Conversational AI, Plato dialogue system, COTA customer-support ML |
-| <img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=64" width="18" height="18" alt="CMU" align="top" /> **CMU LTI** | Ph.D. & M.S., Language Technologies | Self-disclosure and social support in online communities |
-
 Across nearly two decades of research, including eight years in industry, I've served as a tech lead and manager and mentored eleven PhD research interns.
+
+| &nbsp;&nbsp;&nbsp;Affiliation&nbsp;&nbsp;&nbsp; | Role | Focus |
+|---|---|---|
+| <img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=64" width="18" height="18" alt="CMU" align="top" />&nbsp;**CMU&nbsp;HCII** | Research Faculty, Principal Research Scientist (2026–present) | Human-centered AI for mental health and support-service training |
+| <img src="https://www.google.com/s2/favicons?domain=stanford.edu&sz=64" width="18" height="18" alt="Stanford" align="top" />&nbsp;**Stanford** | Research Scholar (2024–2026) | AI and social media well-being, misinformation, relationship alignment in LLMs |
+| <img src="https://www.google.com/s2/favicons?domain=meta.com&sz=64" width="18" height="18" alt="Meta" align="top" />&nbsp;**Meta&nbsp;AI** | Research Scientist (2020–2024) | LLMs for smart glasses, LLM red-teaming (MART), affect modeling, conflict detection |
+| <img src="https://www.google.com/s2/favicons?domain=uber.com&sz=64" width="18" height="18" alt="Uber" align="top" />&nbsp;**Uber&nbsp;AI** | Research Scientist (2016–2020) | Conversational AI, Plato dialogue system, COTA customer-support ML |
+| <img src="https://www.google.com/s2/favicons?domain=cmu.edu&sz=64" width="18" height="18" alt="CMU" align="top" />&nbsp;**CMU&nbsp;LTI** | Ph.D. & M.S., Language Technologies | Self-disclosure and social support in online communities |
+
+
+---
 
 ### Selected publications
 
@@ -49,6 +51,8 @@ Across nearly two decades of research, including eight years in industry, I've s
 - **[To Stay or Leave? The Relationship of Emotional and Informational Support to Commitment in Online Health Support Groups](https://doi.org/10.1145/2145204.2145329)** — *CSCW 2012* 🏆 **Best Paper Award**
 
 ➡️ Full list on [Google Scholar](https://scholar.google.com/citations?user=9gMgFPQAAAAJ)
+
+---
 
 ### Open source & deployed systems
 
